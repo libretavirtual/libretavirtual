@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Matias/Documents/trabajos utu/eclipse trabajos 2º año/Libreta Virtual alpa/Librerias/mysql-connector-java-5.1.42-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matias/Documents/trabajos utu/eclipse trabajos 2º año/Libreta Virtual alpa/Librerias/edisoncorSX.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matias/Documents/trabajos utu/eclipse trabajos 2º año/Libreta Virtual alpa/Librerias/JPlaceHolder.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matias/Documents/trabajos utu/eclipse trabajos 2º año/Libreta Virtual alpa/Librerias/JPlaceHolderPassw.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matias/Documents/trabajos utu/eclipse trabajos 2º año/Libreta Virtual alpa/Librerias/NefAnimacion_V2.1_jdk18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matias/Documents/trabajos utu/eclipse trabajos 2º año/Libreta Virtual alpa/Librerias/timingframework-core-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matias/Documents/trabajos utu/eclipse trabajos 2º año/Libreta Virtual alpa/Librerias/timingframework-swing-5.0.0.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
